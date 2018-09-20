@@ -1,0 +1,87 @@
+@import 'tale/variables';
+
+@import url(https://fonts.googleapis.com/css?family=Rubik:400,400i,700,700i);
+
+$serif-primary: 'Rubik', sans-serif;
+$serif-secondary: 'Rubik', sans-serif;
+$sans-serif: 'Rubik', sans-serif;
+
+@import 'tale/base';
+@import 'tale/code';
+@import 'tale/post';
+@import 'tale/syntax';
+@import 'tale/layout';
+@import 'tale/pagination';
+@import 'tale/catalogue';
+
+.post-title, .post-info {
+  text-align: left;
+}
+
+.post-title {
+  font-size: 3rem;
+}
+
+.post-line {
+  margin: 1.5rem 0 3rem;
+}
+
+.post {
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.2;
+    * {
+      line-height: 1.2;
+    }
+  }
+}
+
+.post p, .post li {
+  line-height: 2;
+}
+
+.post hr {
+  margin: 3em 0;
+  border-style: solid;
+  border-color: #ddd;
+}
+
+.post table {
+  border-collapse: collapse;
+  font-size: 10pt;
+  margin-bottom: 2em;
+  width: 100%;
+
+  th, td {
+    padding: 0.5rem;
+    border: 1px solid #eee;
+    text-align: left;
+  }
+}
+
+// .post ul {
+//   padding-left: 0;
+// }
+
+.nav ul {
+  position: relative;
+  text-align: left;
+}
+
+.nav li {
+  padding-right: 1rem;
+}
+
+ol.footnotelist {
+  font-size: 10pt;
+  padding-left: 0;
+
+  li {
+    line-height: 1.5;
+    padding-left: 0.25em;
+    margin-bottom: 0.25em;
+  }
+}
+
+.post .chartjs-render-monitor, .post .vis-timeline {
+  margin: 1.5em 0;
+}
