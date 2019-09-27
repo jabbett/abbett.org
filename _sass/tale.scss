@@ -85,3 +85,32 @@ ol.footnotelist {
 .post .chartjs-render-monitor, .post .vis-timeline {
   margin: 1.5em 0;
 }
+
+twitterwidget {
+  margin: 2em auto !important;
+}
+
+.post table th[role="columnheader"] {
+  cursor: pointer;
+  &:hover {
+    background-color: lightyellow;
+  }
+}
+
+.post table th[aria-sort] {
+  background-color: lightgoldenrodyellow;
+}
+
+.post table.ranking-top {
+  th, td {
+    vertical-align: middle;
+  }
+  th:nth-child(2) {
+    width: 8rem;
+    img {
+      border-radius: 100%;
+      width: 8rem;
+      margin-bottom: 0;
+    }
+  }
+}

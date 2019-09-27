@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UX foot-in-mouth"
-date:   2018-12--7 12:00:00 -0400
+date:   2010-12-07 12:00:00 -0400
 ---
 **Me:** I must’ve put my computer to sleep while Dropbox was still synching.
 

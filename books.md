@@ -5,6 +5,43 @@ permalink: /books/
 ---
 At a certain point, I thought it would be worthwhile to keep track of the books I read.
 
+May 2019
+--------
+
+* [_Wednesday the Rabbi Got Wet_](https://www.worldcat.org/title/wednesday-the-rabbi-got-wet/oclc/51679573) by Harry Kemelman
+* [_Tuesday the Rabbi Saw Red_](https://www.worldcat.org/title/tuesday-the-rabbi-saw-red-5/oclc/972135810) by Harry Kemelman
+* [_Oishinbo: à la Carte, Vol. 5: Vegetables_](https://www.worldcat.org/title/oishinbo-vegetables-a-la-carte/oclc/422753714)  by Tetsu Kariya
+
+April 2019
+----------
+
+* [_Monday the Rabbi Took Off_](https://www.worldcat.org/title/monday-the-rabbi-took-off/oclc/681697938) by Harry Kemelman
+* [_Sunday the Rabbi Stayed Home_](https://www.worldcat.org/title/sunday-the-rabbi-stayed-home/oclc/801317035) by Harry Kemelman
+* [_Saturday the Rabbi Went Hungry_](https://www.worldcat.org/title/saturday-the-rabbi-went-hungry/oclc/52753121) by Harry Kemelman
+
+March 2019
+----------
+
+* [_One Fine Day the Rabbi Bought a Cross_](https://www.worldcat.org/title/one-fine-day-the-rabbi-bought-a-cross/oclc/52395388) by Harry Kemelman
+
+January 2019
+------------
+
+* [_Oishinbo: à la Carte, Vol. 3: Ramen and Gyoza_](https://www.worldcat.org/title/oishinbo-a-la-carte-ramen-gyoza/oclc/1023617211) by Tetsu Kariya
+* [_A Mary Wilkins Freeman Reader_](https://www.worldcat.org/title/mary-wilkins-freeman-reader/oclc/34710850) edited by Mary Reichardt
+
+December 2018
+-------------
+
+* [_Impeachment: A Citizen's Guide_](https://www.worldcat.org/title/impeachment-a-citizens-guide/oclc/1059301034) by Cass Sunstein
+* [_The Agenda_](https://www.worldcat.org/title/agenda/oclc/659918239) by Bob Woodward
+
+October 2018
+------------
+
+* [_Save The Deli_](http://www.worldcat.org/title/save-the-deli-in-search-of-perfect-pastrami-crusty-rye-and-the-heart-of-jewish-delicatessen/oclc/435421418?referer=br&ht=edition) by David Sax
+* [_Discovering Second Temple Literature_](http://www.worldcat.org/title/discovering-second-temple-literature-the-scriptures-and-stories-that-shaped-early-judaism/oclc/1012697891?referer=di&ht=edition) by Malka Simkovich
+
 September 2018
 --------------
 

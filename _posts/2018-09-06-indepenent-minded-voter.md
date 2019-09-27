@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Independent-Minded Voter: The Significance of a New Political Ethos in Statewide Elections in Massachusetts"
-description: "In this 2002 study, my now-wife argues that candidates who aim to win statewide elections in Massachusetts must garner support specifically from suburban managerial-professionals, voters who are guiding the development of a new political ethos."
+description: "In this 2002 study, Sarah Kahan [Abbett] argues that candidates who aim to win statewide elections in Massachusetts must garner support specifically from suburban managerial-professionals, voters who are guiding the development of a new political ethos."
 date:   2018-09-06 12:00:00 -0400
 ---
 
