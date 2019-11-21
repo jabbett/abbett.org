@@ -5,6 +5,26 @@ permalink: /books/
 ---
 At a certain point, I thought it would be worthwhile to keep track of the books I read.
 
+Fall 2019
+------------
+
+* [_Permanent Record_](https://www.worldcat.org/title/permanent-record/oclc/1114558657) by Edward Snowden
+* [_The Great Partnership_](https://www.worldcat.org/title/great-partnership-science-religion-and-the-search-for-meaning/oclc/809608865) by Jonathan Sacks
+* [_This Is Real and You Are Completely Unprepared_](https://www.worldcat.org/title/this-is-real-and-you-are-completely-unprepared-the-days-of-awe-as-a-journey-of-transformation/oclc/1029448380) by Alan Lew
+
+Summer 2019
+---------
+
+* [_Oishinbo: à la Carte, Vol. 7: Pub Food_](https://www.worldcat.org/title/oishinbo-a-la-carte-volume-7-izakaya-pub-food/oclc/786063019) by Tetsu Kariya
+* [_Thursday the Rabbi Walked Out_](https://www.worldcat.org/title/thursday-the-rabbi-walked-out/oclc/52129572) by Harry Kemelman
+* [_Conversations with Rabbi Small_](https://www.worldcat.org/title/conversations-with-rabbi-small/oclc/1049045279) by Harry Kemelman
+* [_Someday the Rabbi Will Leave_](https://www.worldcat.org/title/someday-the-rabbi-will-leave/oclc/52055583) by Harry Kemelman
+* [_The Day the Rabbi Resigned_](https://www.worldcat.org/title/day-the-rabbi-resigned/oclc/59306099) by Harry Kemelman
+* [_That Day the Rabbi Left Town_](https://www.worldcat.org/title/that-day-the-rabbi-left-town/oclc/938269877) by Harry Kemelman
+* [_Blood, Bones, and Butter_](https://www.worldcat.org/title/blood-bones-butter-the-inadvertent-education-of-a-reluctant-chef/oclc/766299279) by Gabrielle Hamilton
+* [_School For Husbands / Sganarelle_](https://www.worldcat.org/title/school-for-husbands-and-the-imaginary-cuckold-or-sganarelle/oclc/1050153314) by Moliere (Richard Wilbur translation)
+* [_The Misanthrope_](https://www.worldcat.org/title/misanthrope-and-tartuffe/oclc/743315649) by Moliere (Richard Wilbur translation)
+
 May 2019
 --------
 

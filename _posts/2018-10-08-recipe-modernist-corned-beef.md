@@ -5,7 +5,7 @@ description: "Authentic, reproducible results in 3 days with dry brining plus so
 date:   2018-10-08 13:00:00 -0400
 ---
 
-This recipe takes what I learned with [modernist pastrami]() and applies it
+This recipe takes what I learned with [modernist pastrami](/2018/10/recipe-modernist-pastrami/) and applies it
 to [J. Kenji Lopez-Alt's sous-vide corned beef](https://www.seriouseats.com/recipes/2011/03/homemade-corned-beef-brisket-with-potatoes-cabbage-carrots-recipe.html) technique.
 
 The challenge I'd previously faced with streamlining a sous-vide corned beef recipe
@@ -15,7 +15,7 @@ and then cook in the bag:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You’d end up with really salty beef that doesn’t retain moisture well because it isn’t fully cured.</p>&mdash; Kenji López-Alt (@kenjilopezalt) <a href="https://twitter.com/kenjilopezalt/status/989331616316051456?ref_src=twsrc%5Etfw">April 26, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-However, that critique assumed that the dry brine contained more salt than
+I then assumed that his critique assumed that the dry brine contained more salt than
 would be palatable. With [Greg Blonder's precision brining approach](https://genuineideas.com/ArticlesIndex/pastrami.html), you rub with
 the total amount of salt you want in the meat. Problem potentially solved: I can salt-rub
 the meat, vacuum-pack it with pickling spices, and cook in the same bag immediately
@@ -28,7 +28,7 @@ Powder in a ratio of 1 gram per pound, and salt in a ratio of 0.5 gram per pound
 ---
 
 * 7 lb. lightly trimmed flat-cut kosher brisket (ideally with some marbling)
-* 7 g Prague Powder #2
+* 7 g Prague Powder #1
 * 3.5 g kosher salt
 * 30 g brown sugar (about 2 Tbsp.)
 * 14 g black peppercorns (about 2 Tbsp.)
