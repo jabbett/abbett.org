@@ -1,21 +1,27 @@
 ---
 layout: post
-title: The Little Yiddish Bentsher
+title: The Little Yiddish Bentsher / דער קלײנער יידישער בענטשער
 permalink: /bentsher/
 ---
 
 ## Background
 
-In high school, I got hooked on the Klezmatics &emdash; they [performed with
-Itzhak Perlman on Great Performances](https://www.imdb.com/title/tt0266653/), and then I ran out to buy their latest album,
-[_Jews with Horns_](https://klezmatics.com/klezmer-music/jews-with-horns/). In college, I enrolled in Yiddish 10A with Ellen Kelman, and,
-lucky for me, she'd occasionally bring her guitar into class and teach us 
-Yiddish folksongs.
+In high school, I got hooked on the Klezmatics &mdash; I saw them on PBS [performing with
+Itzhak Perlman](https://www.imdb.com/title/tt0266653/), and then I ran out to buy their latest album,
+[_Jews with Horns_](https://klezmatics.com/klezmer-music/jews-with-horns/). In college, I enrolled in Yiddish 10A with [Ellen Kellman](https://www.brandeis.edu/facultyguide/person.html?emplid=c9a917d98153819bbde80b92208afbb971ca5b94), and, lucky for me, she'd regularly bring her guitar into class and teach us Yiddish folksongs.
 
-There was something that struck me about Yiddish songs about shabbat and the holidays
-that was different from traditional Hebrew _zemirot_: many of them were funny.
+As our family has grown, I've tried to incorporate Yiddish songs in our Shabbat routine. What started as some informal printouts has grown into this bentsher, prepared in honor of Avi's bar mitzvah.
+
+## Notes
+
+This is a somewhat idiosyncratic text, mainly because it simply represents our family's home customs.
+
+- The Yiddish songs are transliterated with the appropriate Ashkenazi pronunciation, but the Hebrew blessings are transliterated with in the modern Israeli style.
+- Most blessings that are said aloud as a group are transliterated, but _birkat hamazon_ is not, since we have many other _bentshers_ nearby with transliteration for those who need it.
 
 ## Buy a copy
+
+_The Little Yiddish Bentsher_ is available on Amazon for immediate purchase. Given the economics of Amazon publishing, it's not so affordable in bulk. I may be able to arrange cheaper bulk orders if anyone's interested.
 
 ## Download the PDF
 
