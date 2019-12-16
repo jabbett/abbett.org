@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Jon.
 
-Since 1985, I've had a computer.
+Since 1985&mdash;through an incredible fluke of history&mdash;I've had a computer.
 
 Since 1996, I've been building web sites.
 

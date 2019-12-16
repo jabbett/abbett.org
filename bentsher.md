@@ -4,6 +4,8 @@ title: The Little Yiddish Bentsher / דער קלײנער יידישער בענט
 permalink: /bentsher/
 ---
 
+<img src="/assets/images/bentsher_cover.png" alt="Cover" style="max-width: 20rem;" />
+
 ## Background
 
 In high school, I got hooked on the Klezmatics &mdash; I saw them on PBS [performing with
@@ -16,19 +18,19 @@ As our family has grown, I've tried to incorporate Yiddish songs in our Shabbat 
 
 This is a somewhat idiosyncratic text, mainly because it simply represents our family's home customs.
 
-- The Yiddish songs are transliterated with the appropriate Ashkenazi pronunciation, but the Hebrew blessings are transliterated with in the modern Israeli style.
+- The Yiddish songs are transliterated with the appropriate Ashkenazi pronunciation, but the Hebrew blessings are transliterated in the modern Israeli style.
 - Most blessings that are said aloud as a group are transliterated, but _birkat hamazon_ is not, since we have many other _bentshers_ nearby with transliteration for those who need it.
 
 ## Buy a copy
 
-_The Little Yiddish Bentsher_ is available on Amazon for immediate purchase. Given the economics of Amazon publishing, it's not so affordable in bulk. I may be able to arrange cheaper bulk orders if anyone's interested.
+_The Little Yiddish Bentsher_ is [available on Amazon for immediate purchase](https://www.amazon.com/Little-Yiddish-Bentsher/dp/1712223313/). Given the economics of Amazon publishing, it's not so affordable in bulk. I may be able to arrange cheaper bulk orders if anyone's interested.
 
 ## Download the PDF
 
 The bentsher is available for download under a 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-
+* [_The Little Yiddish Bentsher_](/assets/downloads/bentsher.pdf) (PDF, 392KB)
 
 ## Songs
 
