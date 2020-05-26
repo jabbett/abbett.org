@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Recipe: Workingman's Challah"
-description: "A challah recipe with the absolute-minimum human effort"
-date:   2019-06-12 08:57:00 -0400
+description: "A challah recipe with the minimum human effort"
+date:   2020-03-20 08:57:00 -0400
 ---
 
 The challahs at our local kosher shop have reached $6 a piece, and the prospect
@@ -19,6 +19,8 @@ into a busy work week with a little time on Thursday night and a little
 time on Friday.
 
 This recipe costs about $8 in retail-priced ingredients, or $2.67 per loaf.
+
+The texture is a bit spongy, so I continued my pursuit by adapting the challah recipe from _The New Best Recipe_.
 
 ---
 

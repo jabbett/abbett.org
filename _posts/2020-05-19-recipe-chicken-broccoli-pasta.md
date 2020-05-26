@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recipe: Chicken Broccoli Pasta"
-description: "A precise, creamy-tasting, pareve recipe"
+description: "A precise, creamy-tasting, non-dairy recipe"
 date:   2020-05-19 08:47:00 -0400
 ---
 
@@ -19,7 +19,7 @@ _Makes lots._
 * 2 cloves garlic, crushed
 * 6 sprigs fresh thyme
 * 500g pasta
-* 1 large broccoli crown, cut into bit-size florettes
+* 2 large broccoli crowns, cut into bit-size florettes
 * Additional salt & pepper to taste
 
 1. In a large bowl, mix the corn starch, salt, and pepper. Toss chicken pieces in starch mixture to coat.
