@@ -5,6 +5,14 @@ permalink: /books/
 ---
 At a certain point, I thought it would be worthwhile to keep track of the books I read.
 
+Winter/Spring 2020
+-----------
+
+* _The Caine Mutiny_ by Herman Wouk
+* [_Brilliant: The Evolution of Artificial Light_](http://www.worldcat.org/title/brilliant-the-evolution-of-artificial-light/oclc/931495865&referer=brief_results) by Jane Brox
+* _The Making of a Chef_ by Michael Ruhlman
+* _As a Driven Leaf_ by Milton Steinberg
+
 Fall 2019
 ------------
 
@@ -217,7 +225,6 @@ Spring 2015
 * [_Arik_](http://www.worldcat.org/title/arik-the-life-of-ariel-sharon/oclc/1001862543&referer=brief_results) by David Landau
 * [_The Accidental Empire_](http://www.worldcat.org/title/accidental-empire-israel-and-the-birth-of-settlements-1967-1977/oclc/84997489?referer=br&ht=edition) by Gershom Gorenberg
 * [_The Accidental Creative_](http://www.worldcat.org/title/accidental-creative-how-to-be-brilliant-at-a-moments-notice/oclc/937024827?referer=br&ht=edition) (unfinished) by Todd Henry
-* [_Brilliant: The Evolution of Artificial Light_](http://www.worldcat.org/title/brilliant-the-evolution-of-artificial-light/oclc/931495865&referer=brief_results) (unfinished) by Jane Brox
 
 Winter 2014-2015
 ----------------
