@@ -33,43 +33,46 @@ $sans-serif: 'Rubik', sans-serif;
       line-height: 1.2;
     }
   }
-}
 
-.post p, .post li {
-  line-height: 2;
-}
+  p, li {
+    line-height: 2;  
+  }
 
-.post hr {
-  margin: 3em 0;
-  border-style: solid;
-  border-color: #ddd;
-}
+  hr {
+    margin: 3em 0;
+    border-style: solid;
+    border-color: #ddd;
+  }
 
-.post table {
-  border-collapse: collapse;
-  font-size: 10pt;
-  margin-bottom: 2em;
-  width: 100%;
+  table {
+    border-collapse: collapse;
+    font-size: 10pt;
+    margin-bottom: 2em;
+    width: 100%;
 
-  th, td {
-    padding: 0.5rem;
-    border: 1px solid #eee;
-    text-align: left;
+    th, td {
+      padding: 0.5rem;
+      border: 1px solid #eee;
+      text-align: left;
+    }
+  }
+
+  .chartjs-render-monitor, .post .vis-timeline {
+    margin: 1.5em 0;
   }
 }
 
-// .post ul {
-//   padding-left: 0;
-// }
+.nav {
+  ul {
+    position: relative;
+    text-align: left;
+  }
 
-.nav ul {
-  position: relative;
-  text-align: left;
+  li {
+    padding-right: 1rem;
+  }
 }
 
-.nav li {
-  padding-right: 1rem;
-}
 
 ol.footnotelist {
   font-size: 10pt;
@@ -82,35 +85,39 @@ ol.footnotelist {
   }
 }
 
-.post .chartjs-render-monitor, .post .vis-timeline {
-  margin: 1.5em 0;
-}
+.post 
 
 twitterwidget {
   margin: 2em auto !important;
 }
 
-.post table th[role="columnheader"] {
-  cursor: pointer;
-  &:hover {
-    background-color: lightyellow;
-  }
-}
-
-.post table th[aria-sort] {
-  background-color: lightgoldenrodyellow;
-}
-
-.post table.ranking-top {
-  th, td {
-    vertical-align: middle;
-  }
-  th:nth-child(2) {
-    width: 8rem;
-    img {
-      border-radius: 100%;
+table {
+  &.ranking-top {
+    th, td {
+      vertical-align: middle;
+    }
+    th:nth-child(2) {
       width: 8rem;
-      margin-bottom: 0;
+      img {
+        border-radius: 100%;
+        width: 8rem;
+        margin-bottom: 0;
+      }
     }
   }
+
+  th[role="columnheader"] {
+    cursor: pointer;
+    &:hover {
+      background-color: lightyellow;
+    }
+  }
+
+  th[aria-sort] {
+    background-color: lightgoldenrodyellow;
+  }
+}
+
+.post-disqus {
+  margin-top: 3rem;
 }
