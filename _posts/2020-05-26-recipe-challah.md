@@ -20,18 +20,18 @@ _Makes 3 8-inch loaves._
 
 * Stand mixer with dough hook
 * Baking sheet with parchment paper
-* Digital scale
+* [Digital scale](https://www.amazon.com/Kitchen-Scale-Bakers-KD8000-Weight/dp/B00VEKX35Y)
 * Brush for egg wash
 * Bench scraper to cut dough
 
 ### Dough
 
-* 910g bread flour
+* 910g [King Arthur Organic Bread Flour](https://shop.kingarthurbaking.com/items/king-arthur-organic-bread-flour-5-lb)
 * 5 tsp. yeast
 * 100g honey granules or sugar (2/3 C)
 * 2 1/2 tsp. fine salt
-* 4 eggs
-* 2 egg yolks
+* 4 large eggs
+* 2 large egg yolks
 * 105g vegetable oil (1/2 C)
 * 205g water (1 C)
 
