@@ -14,7 +14,7 @@ _Makes 2 loaves._
 ### Equipment
 
 * Stand mixer with dough hook
-* 2 loaf pans
+* 2 [loaf pans](https://www.usapan.com/loaf-pan-1-lb-vol-1140lf)
 
 ### Ingredients
 
