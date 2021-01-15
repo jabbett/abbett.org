@@ -49,11 +49,11 @@ _Makes 3 8-inch loaves._
 1. Press dough gently to deflate. Let rise another 40&ndash;60 minutes.
 1. With each piece of dough, remove from bowl, divide into 4 pieces, and roll pieces into 10-inch ropes. Braid ropes tightly (see below). Pinch ends and tuck under to neaten.
 1. Place the 3 braided loaves onto a parchment-lined baking sheet. Cover with a towel or plastic wrap and let rise for 45 minutes (until increased by one-third).
-1. Adjust oven rack to lower-middle and preheat oven to 325F Convection.
+1. Adjust oven rack to lower-middle and preheat oven to 325°F Convection.
 1. Whisk egg white with salt and water. Brush egg mixture onto loaves. Coat thoroughly with seed topping if using.
 1. Bake 25 minutes. Cool on wire rack.
 
-_Note: If you don't have a convection oven, you can bake at 350F for 30 minutes, but the loaf in the middle may be a little under-baked._
+_Note: If you don't have a convection oven, you can bake at 350°F for 30 minutes, but the loaf in the middle may be a little under-baked._
 
 ---
 

@@ -34,8 +34,8 @@ _Makes 2 loaves._
 1. In the bowl of a stand mixer fitted with a dough hook, stir together white whole wheat flour, vital wheat gluten, and quick-rise yeast.
 1. Add the water and mix for one minute, scraping down bowl halfway through. Cover the bowl with a  towel and rest for 10 minutes.
 1. Uncover the bowl and add the salt, oil, honey granules, and vinegar. Beat for 1 minute.
-1. Add the second portion of flour, a third at a time, mixing well between each cup. Knead the dough in the mixer until the dough pulls away from the sides of the bowl and feels smooth rather than sticky, about 15 minutes. Scrape down the bowl every 3-4 minutes to help it along.
-1. Greast two bread pans. Preheat oven to lukewarm by setting it to 350°F and then turning it back off after exactly 1 minute.
+1. Add the second portion of flour, a third at a time, mixing well between each cup. Knead the dough in the mixer until the dough pulls away from the sides of the bowl and feels smooth rather than sticky, about 15 minutes. Scrape down the bowl every 3&ndash;4 minutes to help it along.
+1. Grease two bread pans. Preheat oven to lukewarm by setting it to 350°F and then turning it back off after exactly 1 minute.
 1. Remove dough and divide into two loaves (about 720 grams each). Form and place the dough into the prepared bread pans, gently pressing it into the corners.
-1. Place the pans in the warm oven and allow them to rise for 20 to 40 minutes, until the dough is nicely domed above the tops of the pans. Without removing the pans from the oven, turn on the oven to 350°F and set the timer for 30 minutes. The bread is done when the tops are golden brown and the internal temperature reaches 190°F to 200°F on an instant-read thermometer.
+1. Place the pans in the warm oven and allow them to rise for 20&ndash;40 minutes, until the dough is nicely domed above the tops of the pans. Without removing the pans from the oven, turn on the oven to 350°F and set the timer for 30 minutes. The bread is done when the tops are golden brown and the internal temperature reaches 190°F to 200°F on an instant-read thermometer.
 1. Once the loaves are baked, immediately remove the hot bread from the pans to cool on a rack.
