@@ -15,7 +15,7 @@ _Makes one 9-inch loaf._
 
 * Stand mixer with dough hook
 * Bowl cover or plastic wrap
-* 2 9-inch loaf pans
+* 2 [loaf pans](https://www.usapan.com/loaf-pan-1-lb-vol-1140lf)
 * Digital scale
 
 ### Ingredients
