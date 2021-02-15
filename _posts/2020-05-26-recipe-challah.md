@@ -5,11 +5,11 @@ description: "A reliable challah recipe with good texture"
 date:   2020-05-26 18:57:00 -0400
 ---
 
-This is my adaptation of the challah recipe from _The New Best Recipe_. I've made it pareve, because what good is a dairy challah recipe? I've adjusted it to make 3 medium-sized loaves with a simpler braid. Finally, I've worked on the flavor, texture, and bake time so it's tasty the next day, too.
+This is my adaptation of the challah recipe from _The New Best Recipe_. I've made it pareve, because what good is a dairy challah recipe? I've adjusted it to make 3 medium-sized loaves with a simpler braid -- our family of five eats one per Shabbat meal. Finally, I've worked on the flavor, texture, and bake time so it's tasty the next day, too.
 
 ---
 
-_Makes 3 8-inch loaves._
+_Makes 3 loaves._
 
 ### Equipment
 
