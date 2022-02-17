@@ -30,6 +30,7 @@ theme: tale
 plugins:
   - jekyll-feed
   - jekyll/footnotes
+  - jekyll-seo-tag
 permalink: /:year/:month/:title/index:output_ext
 paginate: 100
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recipe: Kasha Varnishkes"
-description: "Precise, repeatable and delicious with or without dairy"
+description: "No smell reminds me of Rosh Hashanah like kasha varnishkes."
 date:   2020-09-17 8:46:00 -0400
 ---
 

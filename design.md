@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design Experience
+title: User Experience Design
 permalink: /design/
 ---
 First as a software developer, and now as a user experience designer, my career has been devoted to serving healthcare providers, researchers, patients, and their families with _highly appropriate_ and _highly effective_ web and mobile applications.

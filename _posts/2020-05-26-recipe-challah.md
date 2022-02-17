@@ -14,7 +14,7 @@ texture, and bake time so it's tasty the next day, too.
 
 ---
 
-_Makes 3 loaves._
+_Makes 3 medium loaves._
 
 ### Equipment
 
@@ -33,7 +33,7 @@ _Makes 3 loaves._
 * 4 large eggs
 * 2 large egg yolks
 * 105g vegetable oil (1/2 C)
-* 205g water (1 C)
+* 220g water (1 C)
 
 ### Egg wash
 
@@ -45,11 +45,11 @@ _Makes 3 loaves._
 1. In a large bowl, whisk together flour, yeast, honey granules, and salt.
 1. In bowl of 6-quart stand mixer, combine eggs, yolks, oil, and water.
 1. Add flour mixture. Using dough hook, mix on low speed for 5 minutes. Dough should clear the sides, but will stick to the bottom.
-1. Divide dough into 3 equals pieces (about 515 grams each). Place each piece in a lightly oiled bowl. Cover and let rise until doubled, about 2 hours.
+1. Divide dough into 3 equal pieces (about 520 grams each). Place each piece in a lightly oiled bowl. Cover and let rise until doubled, about 2 hours.
 1. Press dough gently to deflate. Let rise another 40&ndash;60 minutes.
 1. With each piece of dough, remove from bowl, divide into 4 pieces, and roll pieces into 10-inch ropes. Braid ropes tightly (see below). Pinch ends and tuck under to neaten.
-1. Place the 3 braided loaves onto a parchment-lined baking sheet. Cover with a towel or plastic wrap and let rise for 45 minutes (until increased by one-third).
-1. Adjust oven rack to lower-middle and preheat oven to 325°F Convection.
+1. Place the 3 braided loaves onto a parchment-lined baking sheet. Cover with a damp towel or plastic wrap and let rise for 1 hour (until increased by one-third).
+1. Adjust oven rack to lower-middle and preheat oven to 325°F convection.
 1. Whisk egg white with salt and water. Brush egg mixture onto loaves. Coat thoroughly with seed topping if using.
 1. Bake 25 minutes. Cool on wire rack.
 

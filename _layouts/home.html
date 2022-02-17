@@ -2,11 +2,16 @@
 layout: default
 ---
 
+<a href="/town-meeting" class="campaign-callout">
+  <h1>I'm running for Brookline Town Meeting, Precinct 12</h1>
+  Vote Tuesday, May 3, 7AM&ndash;8PM at the Runkle School
+</a>
+
 <div class="catalogue">
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
-        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %e, %Y" }}</time>
         <h1 class="catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>
 

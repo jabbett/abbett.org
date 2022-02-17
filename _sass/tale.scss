@@ -19,7 +19,7 @@ $sans-serif: 'Rubik', sans-serif;
 }
 
 .post-title {
-  font-size: 3rem;
+  font-size: 2.5em;
 }
 
 .post-line {
@@ -120,6 +120,29 @@ table {
 
 .post-disqus {
   margin-top: 3rem;
+}
+
+a.campaign-callout {
+  display: block;
+  padding: 1em;
+  background: #d0eada;
+  border-radius: 0.5em;
+  margin-top: 2em;
+
+  &, h1 { 
+    color: #1a771a;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: 16pt;
+    text-decoration: underline;
+  }
+
+  p {
+    margin: 0.25em 0;
+    color: #333;
+  }
 }
 
 @media print {
