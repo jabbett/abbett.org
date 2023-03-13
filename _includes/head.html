@@ -15,8 +15,7 @@
   <!-- RSS -->
   {% feed_meta %}
 
-  {% if site.google_analytics and jekyll.environment == 'production' %}
-  <!-- Google Analytics-->
-  {% include analytics.html %}
+  {% if jekyll.environment == 'production' %}
+  <!-- Put analytics code here -->
   {% endif %}
 </head>

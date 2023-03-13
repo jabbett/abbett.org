@@ -2,18 +2,13 @@
 layout: default
 ---
 
-<a href="/town-meeting" class="campaign-callout">
-  <h1>I'm running for Brookline Town Meeting, Precinct 12</h1>
-  Vote Tuesday, May 3, 7AM&ndash;8PM at the Runkle School
-</a>
-
-<div class="catalogue">
-  {% for post in paginator.posts %}
-    <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
+<div class="catalog">
+  {% for post in site.posts %}
+    <a href="{{ post.url | prepend: site.baseurl }}" class="catalog-item">
       <div>
-        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %e, %Y" }}</time>
-        <h1 class="catalogue-title">{{ post.title }}</h1>
-        <div class="catalogue-line"></div>
+        <time datetime="{{ post.date }}" class="catalog-time">{{ post.date | date: "%B %e, %Y" }}</time>
+        <h1 class="catalog-title">{{ post.title }}</h1>
+        <div class="catalog-line"></div>
 
         <p>
           {% if post.description %}
@@ -26,15 +21,4 @@ layout: default
       </div>
     </a>
   {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-  {% endif %}
-
-  <span>{{ paginator.page }}</span>
 </div>

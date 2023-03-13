@@ -1,0 +1,9 @@
+@media print {
+  body { font-size: 10pt; }
+  main, .nav-container { width: 100%; max-width: 100%; text-align: left; }
+  nav.nav ul, .post-disqus, .pagination { display: none; }
+  .post-title { font-size: 2rem; }
+  .post hr, .post-line { margin: 1.5em 0; }
+  .post p, .post li { line-height: 1.6; }
+  .post li + li { margin-top: 0.5em; }
+}

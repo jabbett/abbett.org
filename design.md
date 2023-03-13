@@ -3,7 +3,7 @@ layout: post
 title: User Experience Design
 permalink: /design/
 ---
-First as a software developer, and now as a user experience designer, my career has been devoted to serving healthcare providers, researchers, patients, and their families with _highly appropriate_ and _highly effective_ web and mobile applications.
+First as a software developer, and now as a user experience designer, my career has been devoted to serving healthcare providers, researchers, insurers, patients, and their families with _highly appropriate_ and _highly effective_ web and mobile applications.
 
 I blend my computer science and human-computer interaction backgrounds into a systems approach to design, comprehensively integrating many skills:
 
@@ -13,18 +13,16 @@ I blend my computer science and human-computer interaction backgrounds into a sy
 *   high-fidelity web prototyping
 *   and usability analysis.
 
-My goal with this approach is nothing short of delighting users while simultaneously advancing discovery, increasing ROI, or saving lives.
+My goal with this approach is nothing short of delighting users while simultaneously advancing discovery, increasing ROI, or improving health.
 
-I also spend a lot of time thinking about how to best build relationships between designers and developers. The [Clickframes web application framework](https://www.slideshare.net/jabbett/upa-clickframes-talk-may-2009-submitted) was an early fruit of that labor. In 2012, I released a set of [software development heuristics](http://devheuristics.com/) for interaction designers to better self-critique their work as it transitions from idea to implementation. I also [speak to professional organizations](/talks/) locally about UX leadership in software teams.
+I also spend a lot of time thinking about how to best build relationships between designers and developers. The [Clickframes web application framework](https://www.slideshare.net/jabbett/upa-clickframes-talk-may-2009-submitted) was an early fruit of that labor. In 2012, I released a set of [software development heuristics](https://www.slideshare.net/jabbett/first-users-heuristics-for-designerdeveloper-collaboration-18931112) for interaction designers to better self-critique their work as it transitions from idea to implementation. I also [speak to professional organizations](/talks/) locally about UX leadership in software teams.
 
-ACT.md (2012-present)
+Activate Care (2012-present, formerly ACT.md)
 ---------------------
 
 ![ACT.md](/assets/portfolio/images/act_team.jpg)
 
-At ACT.md, I serve as VP of User Experience, leading design and front-end development of our complex care coordination/automation platform. ACT.md embraces the messy reality of care teams that span organizational boundaries, including the active involvement of patients and families.
-
-[Come join us!](http://www.act.md/careers/)
+At Activate Care, I serve as VP of User Experience, leading research and design of our social needs care navigation platform. My work began as our product's designer and front-end developer; now I lead a team of exceptional designers and researchers and collaborate with peers in product management and engineering to achieve meaningful user outcomes.
 
 Novartis Institutes for Biomedical Research (2011-2012)
 -------------------------------------------------------

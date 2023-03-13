@@ -1,0 +1,38 @@
+.pagination {
+  border-top: .5px solid $grey-2;
+  padding-top: 2rem;
+  position: relative;
+  text-align: center;
+
+  span {
+    color: $default-shade;
+    font-size: 1.1rem;
+  }
+
+  .top {
+    font-size: 1.1rem;
+    opacity: 0.6;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  .arrow {
+    position: absolute;
+
+    &:hover,
+    &:focus {
+      opacity: 0.6;
+      text-decoration: none;
+    }
+  }
+
+  .left {
+    left: 0;
+  }
+
+  .right {
+    right: 0;
+  }
+}

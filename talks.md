@@ -11,6 +11,8 @@ From time to time, at conferences and meetups, I like to share techniques and in
 
 At the [2017 UXPA Boston Conference](https://uxpaboston2017conference.sched.com/event/9tps/behavior-driven-scenarios-for-ux-teams), I described how we use Behavior-Driven Development (BDD) at ACT.md to fuse the UX design and software development processes with a common language… plus a touch of extreme programming history.
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/IVXVbVwTaW4l9M" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
 * [Session handout](/assets/downloads/bdd-ux.pdf) (PDF)
 
 ## Sex, Drugs, and Disease: Designing for difficult topics

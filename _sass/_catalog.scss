@@ -1,0 +1,43 @@
+.catalog {
+  &-item {
+    border-bottom: 1px solid $grey-2;
+    color: $default-color;
+    display: block;
+    padding: 2rem 0;
+
+    &:hover .catalog-line,
+    &:focus .catalog-line {
+      width: 5rem;
+    }
+
+    &:last-child {
+      border: 0;
+    }
+  }
+
+  &-time {
+    color: $default-tint;
+  }
+
+  &-title {
+    color: $default-shade;
+    display: block;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0.5rem 0 1rem;
+
+    @media (min-width: 600px) {
+      font-size: 2rem;
+    }
+  }
+
+  &-line {
+    border-top: .2rem solid $default-shade;
+    display: block;
+    width: 2rem;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}

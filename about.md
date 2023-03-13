@@ -8,6 +8,8 @@ Hi, I'm Jon. I live in Brookline, Massachusetts and I design healthcare software
 
 ---
 
+{% comment %}
+
 I feel I owe my career to a visionary act of kindness.
 
 In 1985, my grandmother had a stroke and my mother needed to care for her. An administrative assistant at Dana-Farber Cancer Institute, my mother explained the situation to her boss, Dr. Marvin Zelen (["a giant in the field of biostatistics"](https://www.hsph.harvard.edu/news/features/in-memoriam-prof-marvin-zelen-a-tremendous-force-in-biostatistics/)). In response, he offered my mother the flexibility to work from home as well as the computer equipment to make it possible — decades before it was commonplace, certainly for folks who were low in the office hierarchy.
@@ -25,6 +27,8 @@ My mother spent the rest of her career with the Department of Biostatistics, and
 * E-mail (my mother had both internet & [bitnet](https://www.techopedia.com/definition/28428/bitnet) addresses)
 * Gopher (a text-based hypertext protocol)
 * The world wide web (I created my first personal website on a DFCI server)
+
+{% endcomment %}
 
 ![Jonathan Abbett](/assets/images/jma_photo.jpg)
 
