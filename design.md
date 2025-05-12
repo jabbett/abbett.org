@@ -17,17 +17,27 @@ My goal with this approach is nothing short of delighting users while simultaneo
 
 I also spend a lot of time thinking about how to best build relationships between designers and developers. The [Clickframes web application framework](https://www.slideshare.net/jabbett/upa-clickframes-talk-may-2009-submitted) was an early fruit of that labor. In 2012, I released a set of [software development heuristics](https://www.slideshare.net/jabbett/first-users-heuristics-for-designerdeveloper-collaboration-18931112) for interaction designers to better self-critique their work as it transitions from idea to implementation. I also [speak to professional organizations](/talks/) locally about UX leadership in software teams.
 
-Activate Care (2012-present, formerly ACT.md)
+Sharpen (2023–present)
+----------------
+
+[Sharpen](https://www.sharpen.com/) can assess a child's risk of reading
+challenges before they start school and then get an elementary-age student up
+to grade level in reading through an innovative program that is science-based
+and parent-directed. As Sharpen's VP of User Experience and Engineering, I get
+to collaborate with passionate reading experts and parents — so all children
+can achieve early literacy success.
+
+Activate Care (2012–2023, formerly ACT.md)
 ---------------------
 
 ![ACT.md](/assets/portfolio/images/act_team.jpg)
 
-At Activate Care, I serve as VP of User Experience, leading research and design of our social needs care navigation platform. My work began as our product's designer and front-end developer; now I lead a team of exceptional designers and researchers and collaborate with peers in product management and engineering to achieve meaningful user outcomes.
+At Activate Care, I served as VP of User Experience, leading research and design of our social needs care navigation platform. My work began as our product's designer and front-end developer; that led to recruiting and directing a team of exceptional designers and researchers, collaborating with peers in product management and engineering to achieve meaningful user outcomes.
 
 Novartis Institutes for Biomedical Research (2011-2012)
 -------------------------------------------------------
 
-![NIBR](http://www.ohaganarchitects.com/wp-content/uploads/2014/06/2004JG09.401.jpg)
+![NIBR](http://arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/PRX7YSCHF4I6HPE4CS7F4RFZM4.jpg)
 
 I led global UX design projects for web and mobile drug-discovery applications serving researchers across all disease areas and in our business divisions. I also served as the primary design contact for NIBR’s software development community, managing our corporate web user interface guidelines and library of reusable UI components.
 
